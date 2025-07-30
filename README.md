@@ -45,3 +45,23 @@ This MATLAB code automates the Dirac–Bergmann constraint formalism to analyze 
 - **`guide.pdf`** — User guide describing the main functions, inputs/outputs, and usage tips.  
 - **`examples.mlx`** — MATLAB Live Script showcasing worked examples, from simple toy models to systems with gauge fixing.
 
+---
+
+## Cite
+
+If this code helps your research, please cite this repository (and optionally the accompanying guide).
+
+---
+
+## Contributing, questions, and feedback
+
+Contributions are welcome!
+
+**Contact:** If you have any doubts about the program, need help reproducing results, or want to propose improvements, please contact me. Any suggestion or bug report is appreciated and helps improve the code.
+
+---
+
+### Disclaimer
+
+This toolkit performs symbolic manipulations and may produce large expressions; consider simplifying or providing problem-specific gauges/Hamiltonians when expressions become unwieldy. Always verify results for your particular model.
+
