@@ -27,7 +27,6 @@ This MATLAB code automates the Dirac–Bergmann constraint formalism to analyze 
 
 - **MATLAB** (R2021a or later recommended).  
 - **Symbolic Math Toolbox**.   
-- (Optional) **Live Editor** to run the included `.mlx` example interactively (comes with MATLAB).
 
 > If you find a version incompatibility, please open an issue with your MATLAB release number.
 
